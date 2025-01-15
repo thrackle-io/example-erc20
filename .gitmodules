@@ -19,3 +19,6 @@
 [submodule "lib/forge-std/forge-std"]
 	path = lib/forge-std/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/forge-std/openzeppelin-foundry-upgrades"]
+	path = lib/forge-std/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
