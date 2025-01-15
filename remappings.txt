@@ -1,5 +1,4 @@
 forge-std/=lib/forge-std/src/
-ds-test/=lib/forge-std/lib/ds-test/src/
 forte-rules-engine/=lib/forte-rules-engine/src
 @openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
 
