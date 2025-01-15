@@ -25,3 +25,6 @@
 [submodule "lib/forge-std/openzeppelin-contracts"]
 	path = lib/forge-std/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/forge-std/forte-rules-engine"]
+	path = lib/forge-std/forte-rules-engine
+	url = https://github.com/thrackle-io/forte-rules-engine
